@@ -29,7 +29,7 @@ Backend development, frontend interfaces, cloud infrastructure, system optimizat
 - **FinderZ (File Management)** – Python, Software Reengineering, Code Optimization  
 - **Mass Transit Billing System** – Java, CSV Parsing, Fare Calculation Logic  
 
-You can explore more of my projects in the [Repositories](https://github.com/prajwalpatil).
+You can explore more of my projects in the [Repositories](https://github.com/Prajwal-Patil-Inc?tab=repositories).
 
 ---
 
