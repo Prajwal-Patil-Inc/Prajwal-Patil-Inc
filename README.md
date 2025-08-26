@@ -34,7 +34,7 @@ You can explore more of my projects in the [Repositories](https://github.com/Pra
 ---
 
 ## GitHub Stats
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwalpatil&show_icons=true&theme=radical)
+![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwal-Patil-Inc&show_icons=true&theme=radical)
 
 ---
 
