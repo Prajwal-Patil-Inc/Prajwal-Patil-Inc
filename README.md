@@ -34,8 +34,8 @@ You can explore more of my projects in the [Repositories](https://github.com/Pra
 ---
 
 ### Certifications
-- AWS Cloud Quest ![AWS Badge](https://www.credly.com/badges/beb5cf17-c900-4abc-8ec9-2d916bbf30e2/public_url)
-- Java (Basic) ![Java Hackerrank](https://www.hackerrank.com/certificates/iframe/ffa610d9cad6)
+- AWS Cloud Quest [AWS Badge](https://www.credly.com/badges/beb5cf17-c900-4abc-8ec9-2d916bbf30e2/public_url)
+- Java (Basic) [Java Hackerrank](https://www.hackerrank.com/certificates/iframe/ffa610d9cad6)
 - Red Hat Automation Diploma - Red Hat
 - Ethical Hacking - Internshala
 
