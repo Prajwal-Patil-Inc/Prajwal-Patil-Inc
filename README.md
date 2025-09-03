@@ -8,18 +8,23 @@
 ---
 
 ## About Me
-I am a software engineer with 2+ years of professional experience and a Master’s in Advanced Computer Science. I have hands-on experience building scalable backend systems, interactive UIs, and automated cloud workflows. I enjoy working on challenging problems and delivering efficient, maintainable solutions.
+I am a software engineer with 2+ years of professional experience and a Master’s in Advanced Computer Science. I have hands-on experience building scalable backend systems, interactive UIs, and automated cloud workflows. I enjoy working on challenging problems and delivering efficient, maintainable solutions. Currently studying AI & Machine learning. 
 
-**Languages & Frameworks:**  
-Java, Python, C#, JavaScript, Node.js, Spring Boot, React.js, Tailwind CSS, Bash, PowerShell
+## Skills
+- **Programming Languages**: Java, Python, JavaScript, C#, PowerShell, Kotlin 
+- **Frameworks/Libraries**: Spring Boot, Express.js, React.js, Node.js, Jetpack Compose 
+- **Databases**: MySQL, NoSQL, MongoDB 
+- **Tools & DevOps**: AWS, Docker, Ansible, CI/CD, Linux/Unix, Git 
+- **Frontend/UI**: HTML, CSS, Tailwind CSS, Bootstrap 
 
-**Tools & Platforms:**  
-AWS, Docker, CI/CD pipelines, Ansible, Linux/Unix
-
-**Specialties:**  
-Backend development, frontend interfaces, cloud infrastructure, system optimization, software reengineering
-
----
+## Specialties:  
+- Full-Stack development
+- Backend development
+- Frontend interfaces
+- Cloud infrastructure 
+- System optimization
+- Software reengineering
+- Machine Learning
 
 ## Badges
 
