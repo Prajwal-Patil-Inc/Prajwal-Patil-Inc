@@ -23,6 +23,13 @@ Backend development, frontend interfaces, cloud infrastructure, system optimizat
 
 ## Badges
 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=632112C4FF4274075D58E2E7B5B7050C33B97BB5A315BBEF4D325A97418C79A0">
+  <img src="./Badges/OracleAI.jpeg" alt="OCI AI Foundations" width="30%"/>
+</a>
+<a href="https://www.credly.com/badges/beb5cf17-c900-4abc-8ec9-2d916bbf30e2/public_url">
+  <img src="./Badges/AWSCQ.png" alt="AWS Cloud" width="30%"/>
+</a>
+
 ---
 
 ## Projects
