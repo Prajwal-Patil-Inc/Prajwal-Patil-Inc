@@ -21,6 +21,10 @@ Backend development, frontend interfaces, cloud infrastructure, system optimizat
 
 ---
 
+## Badges
+
+---
+
 ## Projects
 - **Advanced Android Todo App** – Kotlin, Jetpack Compose, Geolocation, Multimedia  
 - **Clownfish Behaviour Simulation** – Unity, Agent-Based Modeling, Interactive Environment  
@@ -34,6 +38,7 @@ You can explore more of my projects in the [Repositories](https://github.com/Pra
 ---
 
 ### Certifications
+- Oracle Cloud Infrastructure AI Foundations [AI Foundations](https://catalog-education.oracle.com/pls/certview/sharebadge?id=632112C4FF4274075D58E2E7B5B7050C33B97BB5A315BBEF4D325A97418C79A0)
 - AWS Cloud Quest [AWS Badge](https://www.credly.com/badges/beb5cf17-c900-4abc-8ec9-2d916bbf30e2/public_url)
 - Java (Basic) [Java Hackerrank](https://www.hackerrank.com/certificates/iframe/ffa610d9cad6)
 - Red Hat Automation Diploma - Red Hat
